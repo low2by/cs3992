@@ -22,7 +22,7 @@
 | Nathan Hummel | [resume](nathan_hummel.pdf) | [website](https://jstanate.github.io/) |
 | Benjamin Leaptrot | [resume](benjamin_leaptrot.pdf) | [website](https://bbleaptrot.github.io/) |
 | Shawn Michael Linnebach III | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://linnebach08.github.io/Resume/) |
-| E​mmanuel​ L​otubai | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://linnebach08.github.io/Resume/) |
+| E​mmanuel​ L​otubai | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://low2by.github.io/) |
 | Joshua Merrill | [resume](joshua_merrill.pdf) | [website](https://josmer-code-myster.github.io/resume.github.io/) |
 | John Michaels | [resume](john_michaels.pdf) | [website](https://subzeroe03.github.io/) |
 | McKay Mower | [resume](mckay_mower.pdf) | [website](https://mckaymower.github.io/) |
